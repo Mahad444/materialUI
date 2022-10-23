@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "63555303b1163506668e8210"
+  },
+  "name": "Erick Wainana",
+  "song": "Daima Mimi Mkenya",
+  "likes": 55
+},{
+  "_id": {
+    "$oid": "63555303b1163506668e8211"
+  },
+  "name": "Abdalla Arafat",
+  "song": "Idhaa Makama",
+  "likes": 99
+},{
+  "_id": {
+    "$oid": "63555303b1163506668e8212"
+  },
+  "name": "Mahri Zain",
+  "song": "Ya Nabiii",
+  "likes": 1000
+}]
